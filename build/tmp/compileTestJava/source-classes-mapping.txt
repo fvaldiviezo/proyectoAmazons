@@ -1,0 +1,16 @@
+plantillas/RutasGenerales.java
+ plantillas.RutasGenerales
+runners/TestRunner.java
+ runners.TestRunner
+pageobjects/HomeLogin.java
+ pageobjects.HomeLogin
+plantillas/base.java
+ plantillas.base
+steps_antes/steps/ValidarLoginStep.java
+ steps_antes.steps.ValidarLoginStep
+pageobjects/HomeAmazon.java
+ pageobjects.HomeAmazon
+steps/BuscarProducto.java
+ steps.BuscarProducto
+steps_antes/steps/BuscarProducto.java
+ steps_antes.steps.BuscarProducto
